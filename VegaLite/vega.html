@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Embedding Vega-Lite</title>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega/3.0.7/vega.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-lite/2.0.1/vega-lite.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-embed/3.0.0-rc7/vega-embed.js"></script>
+  
+   <style media="screen">
+    /* Add space between Vega-Embed links  */
+    .vega-actions a {
+      margin-right: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="vis"></div>
+
+  <script type="text/javascript">
+    var yourVlSpec = {
+      "title": "Data Breaches by Type of Organization",
+      "$schema": "https://vega.github.io/schema/vega-lite/v2.0.json",
+      "description": "A simple bar chart with embedded data.",
+      "width": 700, "height": 400,
+      "data": {"url": "https://raw.githubusercontent.com/indianspice/IS608/master/Assign6/datad3.csv"},
+  "mark": "line",
+  "encoding": {
+    "x": {
+      "timeUnit": "year", "field": "Year", "type": "temporal",
+      "axis": {"domain": false, "format": "%Y", "tickSize": 0}
+    },
+    "y": {
+      "aggregate": "count", "field": "TotalRecords","type": "quantitative",
+      "axis": {"title": "Number of Breaches"},
+      "stack": "center"
+    },
+    "tooltip": {"field": "TotalRecords", "type": "quantitative"},
+    "color": {"field":"Typeoforganization", "type":"nominal", "scale":{"scheme": "category20b"},
+    "legend": {"title": "Type of Organization"}
+    }
+  }
+  };
+// Embed the visualization in the container with id `vis`
+  vegaEmbed("#vis", yourVlSpec);
+  </script>
+</body>
+</html>
