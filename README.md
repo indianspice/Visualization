@@ -1,2 +1,2 @@
 # Visualizations
-This repository contains visualizations of various datasets 
+This repository contain visualizations of various datasets 
