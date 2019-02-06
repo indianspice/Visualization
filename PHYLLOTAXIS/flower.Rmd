@@ -1,0 +1,153 @@
+---
+title: 'PHYLLOTAXIS: DRAW FLOWERS USING MATHEMATICS'
+author: "Sharon Morris"
+date: "2/5/2019"
+output: html_document
+---
+#Introduction
+This project uses the ggplot to illustrate some of its features.
+```{r setup, include=FALSE}
+library(ggplot2)
+```
+
+#Drawing points on a circle
+```{r}
+t <- seq(0, 2*pi, length.out = 50)
+x <- sin(t)
+y <- cos(t)
+df <- data.frame(t, x, y)
+
+# Scatter plot of points in a circle
+p <- ggplot(df, aes(x, y))
+p + geom_point()
+```
+#Make it harmonious with the Golden Angle
+Plants arrange their leaves in spirals. A spiral is a curve which starts from the origin and moves away from this point as it revolves around it. In the plot above all our points are at the same distance from the origin. A simple way to arrange them in a spiral is to multiply x and y by a factor which increases for each point. 
+
+Golden Angel = $\pi(3-\sqrt 5)$
+
+This number is inspired by the Golden Ratio, one of the most famous numbers in the history of mathematics. Both the Golden Ratio and the Golden Angle appear in unexpected places in nature. Apart of flower petals and plant leaves, you'll find them in seed heads, pine cones, sunflower seeds, shells, spiral galaxies, hurricanes, etc.
+```{r}
+# Defining the number of points
+points <- 500
+
+# Defining the Golden Angle
+angle <- pi * (3-sqrt(5))
+
+t <- (1:points) * angle
+x <- sin(t)
+y <-cos(t)
+df <- data.frame(t, x, y)
+
+# Make a scatter plot of points in a spiral
+p <- ggplot(df, aes(x*t, y*t))
+p + geom_point()
+```
+#Remove everything unnecessary
+```{r}
+df <- data.frame(t, x, y)
+
+# Make a scatter plot of points in a spiral
+p <- ggplot(df, aes(x*t, y*t))
+p + geom_point() + 
+theme(panel.background=element_rect(fill="white"),
+        axis.title.x=element_blank(),
+        axis.text.x = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.title.y=element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.text.y = element_blank(),
+        panel.grid.major = element_blank())
+```
+#A bit of makeup: size, color and transparency
+```{r}
+p <- ggplot(df, aes(x*t, y*t))
+p + geom_point(size=8, alpha=0.5, colour='darkgreen') + 
+theme(panel.background=element_rect(fill="white"),
+        axis.title.x=element_blank(),
+        axis.text.x = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.title.y=element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.text.y = element_blank(),
+        panel.grid.major = element_blank())
+```
+
+#Play with aesthetics: the dandelion
+```{r}
+p <- ggplot(df, aes(x*t, y*t))
+p + geom_point(aes(size=t), pch=8, alpha=0.5, colour='black') + 
+theme(panel.background=element_rect(fill="white"),
+        axis.title.x=element_blank(),
+        axis.text.x = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.title.y=element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.text.y = element_blank(),
+        panel.grid.major = element_blank(),
+        legend.position="none")
+```
+#Put all it together: the sunflower
+Plants not only use the Golden Angle to arrange leaves. It is also found in the arrangement of sunflower seeds.
+```{r}
+p <- ggplot(df, aes(x*t, y*t))
+p + geom_point(aes(size=t, shape=17), pch=17, alpha=0.5, colour='yellow') + 
+theme(panel.background=element_rect(fill="darkmagenta"),
+        axis.title.x=element_blank(),
+        axis.text.x = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.title.y=element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.text.y = element_blank(),
+        panel.grid.major = element_blank(),
+        legend.position="none")
+```
+#What if you modify the angle?
+These patterns are very sensitive to the angle between the points that form the spiral; small changes to the angle can generate very different images.
+```{r}
+angle <- 2
+points <- 1000
+
+t <- (1:points)*angle
+x <- sin(t)
+y <- cos(t)
+
+df <- data.frame(t, x, y)
+
+p <- ggplot(df, aes(x*t, y*t))
+p + geom_point(aes(size=t, shape=17), pch=17, alpha=0.5, colour='yellow') + 
+theme(panel.background=element_rect(fill="darkmagenta"),
+        axis.title.x=element_blank(),
+        axis.text.x = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.title.y=element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.text.y = element_blank(),
+        panel.grid.major = element_blank(),
+        legend.position="none")
+```
+
+#Imaginary flowers
+```{r}
+angle <- 13*pi/180
+points <- 2000
+
+t <- (1:points)*angle
+x <- sin(t)
+y <- cos(t)
+
+df <- data.frame(t, x, y)
+
+p <- ggplot(df, aes(x*t, y*t))
+p + geom_point(aes(size=t, shape=1), pch=1, alpha=0.1, colour='red') + 
+theme(panel.background=element_rect(fill="white"),
+        axis.title.x=element_blank(),
+        axis.text.x = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.title.y=element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.text.y = element_blank(),
+        panel.grid.major = element_blank(),
+        legend.position="none")
+```
+
