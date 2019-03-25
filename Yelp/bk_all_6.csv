@@ -568,7 +568,6 @@ Italian,,,,Full Bar,Casaul,Average,(718) 596-5955,FALSE,Queen Italian Restaurant
 Grocery ,Sandwiches,Beer,Wine&Spirits,,,Average,(347) 889-5696,FALSE,Gordon Savory,https://www.yelp.com/biz/gordon-savory-brooklyn-2?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4,29,5,12/4/17,pickup,,,no,40.68281,-73.96305,995A Fulton St,,,Brooklyn,11238,US,NY
 Seafood,,,,Beer & Wine Only,Casaul,Average,(718) 615-0010,FALSE,Randazzo's Clam Bar,https://www.yelp.com/biz/randazzos-clam-bar-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3.5,560,4,8/27/06,pickup,restaurant_reservation,,no,40.5838863,-73.9478455,2017 Emmons Ave,,,Brooklyn,11235,US,NY
 Asian Fusion ,Malaysian,Japanese,,Beer & Wine Only,"Casual, Trendy",Average,(347) 889-5252,FALSE,Asea Fusion Modern Asian Bistro,https://www.yelp.com/biz/asea-fusion-modern-asian-bistro-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4,231,5,3/1/13,pickup,restaurant_reservation, delivery ,no,40.64588,-73.99915,4120 8th Ave,,,Brooklyn,11232,US,NY
-Bowling ,American (Traditional),Venues&EventSpaces,,Full Bar,Hipster,Very Loud,(718) 963-3369,FALSE,Brooklyn Bowl,brooklynbowl.com,$$,3.5,1191,5,5/28/09,,,,no,40.72189378,-73.95754885,61 Wythe Ave,,,Brooklyn,11249,US,NY
 Burgers,,,,,,,,FALSE,Pasture Burger,https://www.yelp.com/biz/pasture-burger-brooklyn-2?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,,4,11,5,9/24/18,,,,no,40.64192,-73.96319,1611 Cortelyou Rd,,,Brooklyn,11226,US,NY
 Seafood,,,,No,Casual,Average,(718) 826-0616,FALSE,Jus Fishy,https://www.yelp.com/biz/jus-fishy-brooklyn-2?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3.5,138,4,7/31/12,pickup,, delivery ,no,40.6604043,-73.9604956,555 Flatbush Ave,,,Brooklyn,11225,US,NY
 Chinese ,Hong Kong Style Cafe,SushiBars,,Beer & Wine Only,Casaul,Average,(718) 232-6222,FALSE,Jin Jin Hong Kong Cafe,https://www.yelp.com/biz/jin-jin-hong-kong-cafe-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$,3.5,230,4,12/22/10,pickup,restaurant_reservation,delivery,no,40.620528,-73.989131,6224 18th Ave,,,Brooklyn,11204,US,NY
@@ -1109,7 +1108,6 @@ Grocery ,Beer,,,,,,(347) 725-4302,FALSE,Gala Foods Supermarket,,$$,3,16,,,,,,no,
 Grocery,,,,,,,(718) 381-6800,FALSE,Food Story Natural Market,,$$,4,7,,,,,,no,40.7049098,-73.9331767,40 Bogart St,,,Brooklyn,11206,US,NY
 Grocery ,Delis,SpecialtyFood,,,,,(347) 227-8424,FALSE,Depanneur,,$$,3.5,132,,,pickup,, delivery ,no,40.717613,-73.962958,242 Wythe Ave,,,Brooklyn,11249,US,NY
 Farmers Market ,Grocery,,,,,,(718) 693-6908,FALSE,Susie Farm,,$,4.5,2,,,,,,no,40.65443869,-73.95969272,754 Flatbush Ave,,,Flatbush - Ditmas Park,11226,US,NY
-Convenience Stores,,,,,,,(718) 237-2829,FALSE,Key Food Markets,,$,2,5,,,,,,no,40.68468,-73.999412,486 Henry St,,,Brooklyn,11231,US,NY
 Grocery,,,,,,,(718) 774-2851,FALSE,Duarte Food Corps,,$,4.5,2,,,,,,no,40.67124,-73.93938,276 Albany Ave,,,Brooklyn,11213,US,NY
 Grocery,,,,,,,(718) 852-8542,FALSE,CTown Supermarkets,,$,3,5,,,,,,no,40.6819846,-73.9878263,239 Bond St,,,Brooklyn,11217,US,NY
 Health Markets ,Grocery,,,,,,(718) 469-0985,FALSE,Foods Ambrosia Health,,,5,2,,,,,,no,40.650751,-73.946327,3306 Church Ave,,,Brooklyn,11203,US,NY
@@ -1140,7 +1138,6 @@ Grocery,,,,,,,(718) 628-4691,FALSE,Santa Ana Deli & Grocery,,$,4.5,19,,,,,,no,40
 Delis ,Organic Stores,HealthMarkets,,,,,(718) 872-6299,FALSE,Wholesome Farms Market,,$$,3,41,,,pickup,, delivery ,no,40.7016644,-73.9869269,108 Jay St,,,Brooklyn,11201,US,NY
 Health Markets,,,,,,,(718) 643-0508,FALSE,Sunac Natural Food,,$$$,2,139,,,pickup,, delivery ,no,40.713645,-73.951225,440 Union Ave,,,Brooklyn,11211,US,NY
 Grocery,,,,,,,(718) 497-9544,FALSE,Kiara Deli Grocery,,,5,1,,,,,,no,40.7023389,-73.9131403,262 Saint Nicholas Ave,,,Brooklyn,11237,US,NY
-Convenience Stores,,,,,,,(718) 552-0666,FALSE,Heights Deli & Convenience,,$$,4.5,5,,,,,,no,40.69529,-73.99563,89 Montague St,,,Brooklyn,11201,US,NY
 Cosmetics & Beauty Supply ,Skin Care,OrganicStores,,,,,(917) 909-0569,FALSE,Brooklyn Herborium,,$$$,5,4,,,,,,no,40.651371,-73.975488,1301 Prospect Ave,,,Brooklyn,11218,US,NY
 Grocery,,,,,,,(800) 794-3832,FALSE,Ocean Grocery Deli,,$$,4.5,2,,,,,,no,40.64556,-73.97326,629 Church Ave,,,Brooklyn,11218,US,NY
 Grocery,,,,,,,(718) 436-0139,FALSE,Steven's Deli & Grocery,,$,4.5,2,,,,,,no,40.648265,-74.000221,3924 7th Ave,,,Brooklyn,11232,US,NY
@@ -1150,7 +1147,6 @@ Grocery,,,,,,,(718) 434-1207,FALSE,Plaza Grocery Store,,,4,2,,,,,,no,40.6351062,
 Grocery,,,,,,,(718) 680-2889,FALSE,Good Fortune Supermarket,,$,3.5,71,,,,,,no,40.629346,-74.011544,6722 Fort Hamilton Pkwy,,,Brooklyn,11219,US,NY
 Grocery ,Fruits & Veggies,,,,,,(718) 627-7449,FALSE,NetCost Market,,$$,3.5,35,,,,,,no,40.6121043,-73.9779557,2339 65th St,,,Brooklyn,11204,US,NY
 Grocery,,,,,,,(718) 493-9888,FALSE,Peralta Grocery,,$,3,1,,,,,,no,40.6694,-73.92268,578 Ralph Ave,,,Brooklyn,11233,US,NY
-Convenience Stores ,Grocery,,,,,,,FALSE,T & A Deli Grocery,,$,4.5,9,,,,,,no,40.71202847,-73.9408797,90 Bushwick Ave,,,Brooklyn,11211,US,NY
 Grocery,,,,,,,(718) 349-3000,FALSE,CTown Supermarkets,,$$,2,55,,,,,,no,40.7318162,-73.9547102,953 Manhattan Ave,,,Brooklyn,11222,US,NY
 Grocery,,,,,,,(718) 625-2253,FALSE,Key Food,,$$,2.5,53,,,,,,no,40.690391,-73.993995,169 Atlantic Ave,,,Brooklyn,11201,US,NY
 Grocery,,,,,,,(718) 907-9280,FALSE,Food Bazaar Supermarket,,$$,2,6,,,,,,no,40.66977,-73.92158,1682 St. John's Place,,,Brooklyn,11233,US,NY
@@ -1171,10 +1167,8 @@ Grocery,,,,,,,(718) 455-3407,FALSE,Ideal Supermarkets,,$$,2.5,4,,,,,,no,40.69102
 Seafood Markets ,Beer,alias:grocery,Grocery,,,,(718) 778-3329,FALSE,BenZ's Food Products,,$$,4,8,,,,,,no,40.66855,-73.93964,332 Albany Ave,,,Brooklyn,11213,US,NY
 Grocery,,,,,,,(718) 857-5579,FALSE,Key Food,,$$,3,33,,,,,,no,40.69333727,-73.9653049,492 Myrtle Ave,,,Clinton Hill,11205,US,NY
 Grocery,,,,,,,(929) 210-0950,FALSE,Cancas Grocery,,,5,1,,,,,,no,40.638897,-73.954468,1276 Flatbush Ave,,,Brooklyn,11226,US,NY
-Convenience Stores,,,,,,,(929) 210-0287,FALSE,Howard Deli Mart,,$,4,6,,,pickup,, delivery ,no,40.68156195,-73.91969164,199 Howard Ave,,,Brooklyn,11233,US,NY
 Grocery,,,,,,,(718) 383-2580,FALSE,Lucky's Real Tomatoes,,,5,1,,,,,,no,40.72599,-73.9564,29 Meserole Ave,,,Brooklyn,11222,US,NY
 Grocery,,,,,,,(718) 246-2500,FALSE,Fine Fare Supermarket,,$$,3.5,3,,,,,,no,40.7015548,-73.9842356,165 York St,,,Brooklyn,11201,US,NY
-Convenience Stores,,,,,,,(718) 852-3193,FALSE,Green Ivy 1,,$$,3,20,,,,,,no,40.67672,-73.98378,246 4th Ave,,,Brooklyn,11215,US,NY
 Grocery,,,,,,,(718) 854-4005,FALSE,Rosner's Grocery,,$,5,1,,,,,,no,40.63596,-73.98737,4423 14th Ave,,,Brooklyn,11219,US,NY
 Grocery,,,,,,,(718) 566-2999,FALSE,Food World Supermarket,,$$,3.5,15,,,,,,no,40.6477203,-73.8922882,935-941 E 107th St,,,Brooklyn,11236,US,NY
 Grocery,,,,,,,(718) 953-4500,FALSE,Western Beef,,$$,3,6,,,,,,no,40.66773605,-73.92201233,1203 E New York Ave,,,Brooklyn,11212,US,NY
@@ -1239,7 +1233,6 @@ Grocery ,Kosher,,,,,,(718) 438-8495,FALSE,Rubin Grocery,,$$,5,2,,,,,,no,40.63509
 Grocery,,,,,,,(718) 774-0200,FALSE,Key Food,,$$,1.5,12,,,,,,no,40.67482187,-73.94997175,653 Nostrand Ave,,,Brooklyn,11216,US,NY
 Grocery,,,,,,,(718) 965-4235,FALSE,Green Olive Food Market,,$$,3,7,,,,,,no,40.66366577,-73.98390198,423 7th Ave,,,Brooklyn,11215,US,NY
 Grocery,,,,,,,(718) 388-6938,FALSE,Associated Supermarket,,$,2,13,,,,,,no,40.711631,-73.946617,639 Grand St,,,Brooklyn,11211,US,NY
-Convenience Stores ,Drugstores,JuiceBars&Smoothies,,,,,(347) 799-2213,FALSE,Organic Planet & Pharmacy,,$$,4,28,,,,,,no,40.71806,-73.95467,205 N 9th St,,,Brooklyn,11211,US,NY
 Grocery,,,,,,,(718) 386-4960,FALSE,Muneca Grocery Corporation,,,4,1,,,,,,no,40.69511,-73.9116,665 Knickerbocker Ave,,,Brooklyn,11221,US,NY
 Grocery,,,,,,,(718) 237-0017,FALSE,Greene Ave Market,,,5,1,,,,,,no,40.686121,-73.972677,17 Greene Ave,,,Brooklyn,11238,US,NY
 Grocery,,,,,,,(718) 497-7068,FALSE,Khims Millenium Market IV,,$$$,3,25,,,,,,no,40.7072399,-73.9399434,260 Bushwick Ave,,,Brooklyn,11206,US,NY
@@ -1272,7 +1265,6 @@ Meat Shops ,Grocery,,,,,,(718) 788-5506,FALSE,Young Market,,,4,1,,,,,,no,40.6657
 Grocery,,,,,,,(718) 377-4302,FALSE,Ideal Food Basket,,$$,4,1,,,,,,no,40.6219321,-73.935732,1967 Flatbush Ave,,,Brooklyn,11234,US,NY
 Grocery,,,,,,,(718) 336-7563,FALSE,Moisha's Discount Supermarket,,$,2.5,29,,,,,,no,40.6169744,-73.97166478,325 Ave M,,,Brooklyn,11230,US,NY
 Grocery,,,,,,,(718) 384-3935,FALSE,B & B Food Market,,$,5,1,,,,,,no,40.70536,-73.9597299,78 Lee Ave,,,Brooklyn,11211,US,NY
-Convenience Stores,,,,,,,(347) 240-0504,FALSE,Bani Grocery,,$$,5,2,,,,,,no,40.69397,-73.9237799,1121 Greene Ave,,,Brooklyn,11221,US,NY
 Grocery,,,,,,,,FALSE,Big Bazaar Supermarket,,,2,5,,,,,,no,40.57603639,-73.9676572,3117 Ocean Pkwy,,,Brooklyn,11235,US,NY
 Grocery,,,,,,,(718) 434-8409,FALSE,Lee's Deli USA,,$,4,4,,,,,,no,40.62977,-73.96198,1506 Avenue H,,,Brooklyn,11230,US,NY
 Grocery,,,,,,,(718) 768-0555,FALSE,Jetro Cash & Carry,,$,3,13,,,,,,no,40.6671093,-73.9994475,566 Hamilton Ave,,,Brooklyn,11232,US,NY
@@ -1292,12 +1284,10 @@ Grocery,,,,,,,,FALSE,Chuang Xing Grocery,,,3,1,,,,,,no,40.644694,-73.999578,4307
 Grocery,,,,,,,(347) 627-4807,FALSE,Metro Market,,,4,1,,, pickup ,,delivery,no,40.663702,-73.9317249,438 Utica Ave,,,Brooklyn,11213,US,NY
 Grocery ,Convenience Stores,,,,,,(718) 237-2400,FALSE,Lee Gardens Supermarket,,$$,4,2,,,,,,no,40.69957,-73.9538199,529 Flushing Ave,,,Brooklyn,11205,US,NY
 Butcher ,Meat Shops,,,,,,(718) 773-7772,FALSE,Caribbean Meat Market,,$$,3,2,,,,,,no,40.6628343,-73.9257433,1016 Rutland Rd,,,Brooklyn,11212,US,NY
-Convenience Stores ,Grocery,,,,,,,FALSE,Albany Ave Candy and Grocery,,,4,1,,,,,,no,40.66230629,-73.9398789,519 E New York,,,Brooklyn,11225,US,NY
 Grocery,,,,,,,(718) 253-7521,FALSE,Key Food,,$$,3,13,,,,,,no,40.6279991,-73.9472608,2326 Nostrand Ave,,,Brooklyn,11210,US,NY
 Grocery,,,,,,,(718) 438-1938,FALSE,Old Town Asia Market,,,4,2,,,,,,no,40.63791985,-74.00745377,777 56th St,,,Brooklyn,11220,US,NY
 Breakfast & Brunch ,Sandwiches,Delis,,,,,(718) 686-1003,FALSE,New Blondie,,$$,3.5,10,,,,,,no,40.65169,-73.9755,607 Greenwood Ave,,,Windsor Terrace,11218,US,NY
 Grocery,,,,,,,(718) 859-2089,FALSE,Natural Corner Food,,,4,1,,,,,,no,40.63402,-73.96351,1415 Foster Ave,,,Brooklyn,11230,US,NY
-Convenience Stores,,,,,,,(718) 599-1551,FALSE,Zam Zam Candy & Grocery,,$,4,5,,,,,,no,40.715217,-73.953819,45 Havemeyer St,,,Brooklyn,11211,US,NY
 Grocery,,,,,,,(718) 462-9010,FALSE,Associated Supermarket,,$$,2.5,3,,,,,,no,40.6505719,-73.951711,2722 Church Ave,,,Brooklyn,11226,US,NY
 Delis,,,,,,,(718) 237-4070,FALSE,Bonafide Delicatessen,,$$,4,23,,, pickup ,,delivery,no,40.686973,-73.999664,118 Kane St,,,Brooklyn,11231,US,NY
 Delis,,,,,,,(718) 573-5492,FALSE,Alonzo Grocery,,,5,2,,,,,,no,40.688636,-73.916053,1195 Bushwick Ave,,,Brooklyn,11221,US,NY
@@ -1336,7 +1326,6 @@ Grocery,,,,,,,(718) 434-6549,FALSE,R J M Mini Market,,,4,1,,,,,,no,40.63594,-73.
 Grocery,,,,,,,,FALSE,Deli Grocery,,,4,1,,,,,,no,40.6511,-73.95872,863 Flatbush Ave,,,Brooklyn,11226,US,NY
 Meat Shops ,Butcher,,,,,,(718) 237-0133,FALSE,Heights Prime Meats,,$$,4,7,,,,,,no,40.6977878,-73.9937253,59 Clark St,,,Brooklyn,11201,US,NY
 Grocery,,,,,,,(718) 745-8035,FALSE,Muzi Deli Grocery,,,3,2,,,,,,no,40.63037,-74.00435,6202 11th Ave,,,Brooklyn,11219,US,NY
-Convenience Stores ,Sandwiches,Delis,,,,,(718) 522-6960,FALSE,Johnson Gourmet Deli & Grill,,$,3,17,,,,,,no,40.6945595,-73.9826806,176 Johnson St,,,Brooklyn,11201,US,NY
 Grocery,,,,,,,(718) 638-0030,FALSE,Latin Brothers Food,,,5,1,,,,,,no,40.68134,-73.95608,1141 Fulton St,,,Brooklyn,11238,US,NY
 Grocery,,,,,,,(917) 436-4690,FALSE,Key Food,,$$,3,18,,,,,,no,40.63395,-73.96368,1407 Foster Ave,,,Brooklyn,11230,US,NY
 Delis ,Convenience Stores,Grocery,,,,,(718) 488-1993,FALSE,Bridge Fresh,,$$,2.5,63,,,,,,no,40.70282387,-73.98696557,68 Jay St,,,Brooklyn,11201,US,NY
@@ -1374,7 +1363,6 @@ Fruits & Veggies,,,,,,,(718) 891-8449,FALSE,Sheepshead Bay Fruits & Vegetables,,
 Grocery,,,,,,,(718) 789-2201,FALSE,Green Broccoli Farm,,$$,3,11,,,,,,no,40.6781387,-73.9549637,591 Franklin Ave,,,Crown Heights,11238,US,NY
 Tacos ,Breakfast & Brunch,Grocery,,,,,(718) 788-4746,FALSE,Cordoba Deli & Grocery,,,5,1,,,,,,no,40.6513599,-74.01139,4324 3rd Ave,,,Brooklyn,11232,US,NY
 Grocery ,Imported Food,,,,,,(718) 438-2195,FALSE,Ho Ho Market,,,4,1,,,,,,no,40.63957,-74.00511,5215 8th Ave,,,Brooklyn,11220,US,NY
-Convenience Stores,,,,,,,(718) 686-1788,FALSE,Da Hong Grocery,,,4,1,,,,,,no,40.63429,-74.00344,5701 Fort Hamilton Pkwy,,,Brooklyn,11219,US,NY
 Meat Shops ,Butcher,,,,,,(718) 624-0014,FALSE,Staubitz Market,,$$,4.5,49,,,,,,no,40.6864599,-73.99409,222 Court St,,,Brooklyn,11201,US,NY
 Delis,,,,,,,(718) 421-3242,FALSE,Sky High Deli Grocery,,,4.5,3,,,,,,no,40.633815,-73.948028,2112 Nostrand Ave,,,East Flatbush,11210,US,NY
 Grocery ,Delis,MeatShops,,,,,(718) 252-9527,FALSE,Paperific Supermarket,,,4.5,2,,,,,,no,40.62137,-73.9647899,1482 Coney Island Ave,,,Brooklyn,11230,US,NY
@@ -1403,7 +1391,6 @@ Grocery ,Fruits & Veggies,SeafoodMarkets,,,,,(718) 782-3888,FALSE,Green Corner F
 Seafood Markets,,,,,,,(718) 638-1910,FALSE,Mermaid's Garden,,$$$,3.5,33,,,,,,no,40.6768287,-73.9691818,644 Vanderbilt Ave,,,Brooklyn,11238,US,NY
 Grocery,,,,,,,,FALSE,Sutter Express Deli Corp,,,3,1,,,,,,no,40.6679258,-73.9061194,361 Sutter Ave,,,Brooklyn,11212,US,NY
 Sandwiches ,Meat Shops,Delis,,,,,(718) 636-4805,FALSE,Honey Baked Ham Company,,$$,3.5,14,,, pickup ,,delivery,no,40.68017805,-73.94454913,1413 Fulton Street,,,Brooklyn,11216,US,NY
-Convenience Stores ,Mexican,,,,,,(718) 782-3797,FALSE,Mexico 2000 Grocery,,$,4,65,,,,,,no,40.707683,-73.955017,367 Broadway,,,Brooklyn,11211,US,NY
 Grocery,,,,,,,(718) 745-0314,FALSE,Best Way Food,,,4,1,,,,,,no,40.632911,-74.021568,6928 5th Ave,,,Brooklyn,11209,US,NY
 Grocery ,Cafes,Sandwiches,,,,,(718) 768-8726,FALSE,Parkslope Deli and Grocery,,,4,1,,,,,,no,40.66802262,-73.98083388,294 7th Ave,Ste A,,Park Slope,11215,US,NY
 Grocery ,Fruits & Veggies,Delis,,,,,(718) 946-5400,FALSE,NetCost Market,,$$,3,58,,,,,,no,40.57881561,-73.97490244,608 Sheepshead Bay Rd,,,Brooklyn,11224,US,NY
@@ -1437,13 +1424,10 @@ Grocery,,,,,,,(718) 927-5770,FALSE,A & S Superette,,,4,1,,,,,,no,40.647304,-73.9
 Grocery,,,,,,,(718) 235-1798,FALSE,Fausto A Ramos Sutter Grocery Store,,$,5,2,,,,,,no,40.67115,-73.88253,978 Sutter Ave,,,Brooklyn,11208,US,NY
 Delis ,Convenience Stores,Grocery,,,,,(718) 953-1714,FALSE,Nostrand Deli & Grocery,,,3,1,,,,,,no,40.6744431,-73.95001531,669 Nostrand Ave,,,Brooklyn,11216,US,NY
 Meat Shops,,,,,,,(347) 365-2167,FALSE,Tepeyac Meat Grocery,,$,4.5,3,,,,,,no,40.70352318,-73.92686449,191 Knickerbocker Ave,,,Brooklyn,11237,US,NY
-Nutritionists ,Vitamins & Supplements,HealthMarkets,,,,,(718) 645-2266,FALSE,Wealth Of Health,,,5,1,,,,,,no,40.61797,-73.95849,1616 Avenue M,,,Brooklyn,11230,US,NY
-Convenience Stores,,,,,,,(718) 221-5439,FALSE,Shantie Deli & Grocery,,,3,1,,,,,,no,40.6547,-73.93925,787 Albany Ave,,,Brooklyn,11203,US,NY
 Caterers ,Bakeries,MeatShops,,,,,(718) 372-4555,FALSE,Meat Supreme,,$$,3.5,32,,,,,,no,40.59675,-73.97732,181 Avenue U,,,Brooklyn,11223,US,NY
 Grocery ,Convenience Stores,,,,,,,FALSE,44 Grocery Deli & Grill,,,3,1,,,,,,no,40.68348,-73.97928,44 4th Ave,,,Brooklyn,11217,US,NY
 Grocery,,,,,,,(718) 241-4848,FALSE,CTown Supermarkets,,$$,3.5,2,,,,,,no,40.6351881,-73.9135049,7924 Flatlands Ave,,,Brooklyn,11236,US,NY
 Grocery,,,,,,,(718) 774-5645,FALSE,Fulton King Plaza Food,,,1,1,,,,,,no,40.6793851,-73.9286969,1741 Fulton St,,,Brooklyn,11233,US,NY
-Convenience Stores,,,,,,,,FALSE,Express Deli & Grocery,,$,5,1,,,,,,no,40.70680724,-73.95060003,213 Union Ave,,,Brooklyn,11206,US,NY
 Delis,,,,,,,(718) 346-8206,FALSE,A & A Grocery,,,5,1,,,,,,no,40.66869,-73.89913,532 Sutter Ave,,,Brooklyn,11207,US,NY
 Meat Shops,,,,,,,(718) 768-9676,FALSE,Jubilat Provisions,,$$,4.5,33,,,,,,no,40.66386795,-73.99108887,608 5th Ave,,,Brooklyn,11215,US,NY
 Meat Shops,,,,,,,(718) 236-0119,FALSE,Faicco's Pork Store,,$$,5,71,,,,,,no,40.6282358,-74.0061208,6511 11th Ave,,,Brooklyn,11219,US,NY
@@ -1475,15 +1459,12 @@ Grocery,,,,,,,(718) 331-9376,FALSE,CTown Supermarkets,,$$,2,21,,,,,,no,40.61827,
 Grocery,,,,,,,(718) 498-8737,FALSE,Food Bazaar Supermarket,,$$,2.5,8,,,,,,no,40.66433,-73.90141,417 Junius St,,,Brooklyn,11212,US,NY
 Meat Shops ,Delis,,,,,,(718) 763-3230,FALSE,Landi's Pork Store,,$$,4.5,68,,,,,,no,40.61954817,-73.91793573,5909 Ave N,,,Brooklyn,11234,US,NY
 Fruits & Veggies,,,,,,,(718) 493-2700,FALSE,Lily Food Store,,$,4,3,,,,,,no,40.678661,-73.921829,1932 Fulton St,,,Brooklyn,11233,US,NY
-Convenience Stores,,,,,,,(718) 443-9092,FALSE,Knickerbocker Deli & Grocery,,$,4.5,2,,,,,,no,40.700424,-73.921691,362 Knickerbocker Ave,,,Brooklyn,11237,US,NY
 Grocery,,,,,,,(718) 259-6666,FALSE,Breadberry,,$$$,3.5,16,,,,,,no,40.6235365,-73.9897338,1689 60th St,,,Brooklyn,11204,US,NY
 Grocery,,,,,,,,FALSE,Associated Supermarket,,$$,2.5,33,,,,,,no,40.728019,-73.952896,802 Manhattan Ave,,,Brooklyn,11222,US,NY
 Grocery,,,,,,,(718) 375-1075,FALSE,Food Universe,,$$,4.5,4,,,,,,no,40.61027,-73.95432,1910 Kings Hwy,,,Brooklyn,11229,US,NY
 Delis,,,,,,,(718) 680-0905,FALSE,Sunnyvale Grocery,,,3,1,,,,,,no,40.629367,-74.023017,7506 5th Ave,,,Brooklyn,11209,US,NY
 Grocery,,,,,,,,FALSE,Ocean Bay Market,,$$,3,12,,,,,,no,40.59754,-73.96144,2424 Coney Island Ave,,,Brooklyn,11223,US,NY
 Grocery ,Convenience Stores,,,,,,(347) 715-9363,FALSE,Classon Finest Deli,,$$$,2.5,2,,,,,,no,40.6773049,-73.958866,667 Classon Ave,,,Brooklyn,11238,US,NY
-Convenience Stores,,,,,,,(718) 638-7500,FALSE,Ideal Food Basket,,$,2,24,,,,,,no,40.676225,-73.963825,720 Washington Ave,,,Brooklyn,11238,US,NY
-Convenience Stores ,Delis,,,,,,(718) 851-6200,FALSE,John's Deli,,$$,4,27,,,,,,no,40.652248,-73.975631,1269 Prospect Ave,,,Brooklyn,11218,US,NY
 Meat Shops,,,,,,,(718) 837-9773,FALSE,Bari Pork Store,,$$,4.5,12,,,,,,no,40.61977549,-73.98925749,6319 18th Ave,,,Brooklyn,11204,US,NY
 Delis,,,,,,,(718) 788-0235,FALSE,Nature's Delite,,$,3.5,10,,, pickup ,,delivery,no,40.66359,-73.99446,639 4th Ave,,,Brooklyn,11232,US,NY
 Delis ,Specialty Food,JuiceBars&Smoothies,,,,,(718) 302-4800,FALSE,Bedford Gourmet Food,,$,4,18,,, pickup ,,delivery,no,40.718636,-73.957161,160 Bedford Ave,,,Brooklyn,11211,US,NY
@@ -1521,16 +1502,13 @@ Grocery,,,,,,,,FALSE,Ocean Foodmart,,,3,2,,,,,,no,40.58720526,-73.95364914,1510 
 Grocery,,,,,,,(718) 373-5595,FALSE,Belarus,,$$$,3,4,,,,,,no,40.58006513,-73.97212713,489 Neptune Ave,,,Brooklyn,11224,US,NY
 Grocery,,,,,,,(718) 745-1093,FALSE,Key Food Marketplace,,$$,2,42,,,,,,no,40.63164,-74.02789,7414 3rd Ave,,,Brooklyn,11209,US,NY
 Grocery,,,,,,,(718) 232-9398,FALSE,Key Food,,$,2.5,17,,,,,,no,40.6196196,-73.9990083,7000 New Utrecht Ave,,,Brooklyn,11228,US,NY
-Convenience Stores,,,,,,,,FALSE,Grand Street Deli and Grocery,,$,4,2,,,,,,no,40.71186277,-73.94106746,810 Grand St,,,Brooklyn,11211,US,NY
 Grocery,,,,,,,(718) 388-6254,FALSE,Johan Food,,$,3.5,5,,,,,,no,40.70815,-73.9436,145 Meserole St,,,Brooklyn,11206,US,NY
-Convenience Stores ,Delis,,,,,,(718) 858-5515,FALSE,Natural Plus,,$$$,3.5,8,,, pickup ,,delivery,no,40.67177963,-73.98790741,414 4th Ave,,,Brooklyn,11215,US,NY
 Delis ,Sandwiches,,,,,,(347) 275-4609,FALSE,Twin Express Deli,,,5,1,,,,,,no,40.5993,-73.9534,1801 Avenue U,,,Brooklyn,11229,US,NY
 Grocery ,Health Markets,,,,,,(718) 517-2297,FALSE,Gourmanoff Supermarket,,$$,3.5,76,,, pickup ,,delivery,no,40.5784017,-73.95846575,1029 Brighton Beach Ave,,,Brighton Beach,11235,US,NY
 Grocery,,,,,,,(718) 375-4112,FALSE,Happy Deli NY,,$,3,2,,,,,,no,40.61106,-73.94204,2978 Quentin Rd,,,Brooklyn,11229,US,NY
 Grocery,,,,,,,(718) 385-6207,FALSE,Urena Evangelisa,,$,1,1,,,,,,no,40.661195,-73.915709,792 Saratoga Ave,,,Brooklyn,11212,US,NY
 Delis ,Grocery,Fruits&Veggies,,,,,(718) 633-8448,FALSE,Fruit King Deli & Grocery,,,4.5,3,,,,,,no,40.63546865,-73.97785303,761 Mcdonald Ave,,,Brooklyn,11230,US,NY
 Grocery,,,,,,,(718) 941-1425,FALSE,Flatbush Caton Market,,$,2.5,7,,,,,,no,40.65323,-73.95981,794-814 Flatbush Ave,,,Brooklyn,11226,US,NY
-Convenience Stores,,,,,,,(718) 748-2228,FALSE,Organic Girl on 3rd,,,4.5,2,,,,,,no,40.61775,-74.03323,9401 3rd Ave,,,Brooklyn,11209,US,NY
 Butcher ,Meat Shops,,,,,,(347) 915-2000,FALSE,Atlas Meat Market,,$$,4,12,,,,,,no,40.59084,-73.96871,387 Ave X,,,Brooklyn,11223,US,NY
 Grocery,,,,,,,(718) 856-5871,FALSE,Salahi Deli,,$$,3.5,3,,,,,,no,40.64011,-73.96625,1224 Cortelyou Rd,,,Brooklyn,11218,US,NY
 Grocery,,,,,,,(718) 599-1727,FALSE,Wiliamsburg Deli Grocery,,,1,1,,,,,,no,40.7075,-73.94291,168 Graham Ave,,,Brooklyn,11206,US,NY
@@ -1540,7 +1518,6 @@ Grocery,,,,,,,(718) 389-5793,FALSE,Daniel's European Market,,$,4.5,3,,,,,,no,40.
 Butcher ,Meat Shops,,,,,,(718) 618-9575,FALSE,Dellapietras,,$$$,4.5,113,,,,,,no,40.690118,-73.993177,193 Atlantic Ave,,,Brooklyn,11201,US,NY
 Grocery,,,,,,,(718) 787-9899,FALSE,Chang Fa Food Market,,$$,3.5,10,,,,,,no,40.59868,-73.9567,1418 Avenue U,,,Brooklyn,11229,US,NY
 Grocery,,,,,,,,FALSE,Jobalah,,,4,1,,,,,,no,40.6429287,-73.9796502,468 Macdonald Ave,,,Brooklyn,11218,US,NY
-Convenience Stores ,Imported Food,,,,,,(718) 923-1662,FALSE,Dreams Gourmet,,$$,4,8,,,,,,no,40.68809509,-73.99346924,170 Court St,,,Brooklyn,11201,US,NY
 Grocery,,,,,,,(877) 333-7722,FALSE,Organic Fruit and Veggie Club,,$$$,1,3,,,,,,no,40.696876,-73.933937,1154 Myrtle Ave,,,Brooklyn,11221,US,NY
 Grocery,,,,,,,(718) 455-7052,FALSE,Sajoma Deli Grocery,,,5,1,,,,,,no,40.681624,-73.91124,45 Rockaway Ave,,,Brooklyn,11233,US,NY
 Grocery,,,,,,,(718) 837-8231,FALSE,Legend Supermarket,,$$,3.5,6,,,,,,no,40.60731,-74.00199,1811 86th St,,,Brooklyn,11214,US,NY
@@ -1552,7 +1529,6 @@ Delis ,Polish,Bagels,,,,,(718) 559-6686,FALSE,JW Real Polish Delicatessen,,,5,3,
 Delis,,,,,,,(347) 425-7180,FALSE,Healthway Delicatessen,,$,3,21,,, pickup ,,delivery,no,40.68544,-73.92644,177 Patchen Ave,,,Brooklyn,11221,US,NY
 Grocery,,,,,,,,FALSE,Family Fruit & Vegetables,,$,5,1,,,,,,no,40.69088613,-73.90873209,268 Eldert St,,,Bushwick,11207,US,NY
 Grocery,,,,,,,,FALSE,Astro Gourmet Deli,,,4,1,,,,,,no,40.69371172,-73.96532536,497 Myrtle Ave,,,Brooklyn,11205,US,NY
-Convenience Stores ,Department Stores,,,,,,(718) 436-3300,FALSE,Pal Supermarket,,$,5,5,,, pickup ,,delivery,no,40.649208,-74.009239,4421 4th Ave,,,Brooklyn,11220,US,NY
 Fruits & Veggies,,,,,,,(718) 858-5421,FALSE,Landau E Fruits Vegetable,,$$$,3,1,,,,,,no,40.70167923,-73.95872498,650 Bedford Ave,,,Brooklyn,11211,US,NY
 Grocery,,,,,,,(718) 837-2220,FALSE,Mong Kok Supermarket 歐江超級市場,,,3,2,,,,,,no,40.60711538,-74.00209241,1815 86th St,,,Brooklyn,11214,US,NY
 Grocery,,,,,,,(718) 832-6916,FALSE,Village Market,,$$,3,4,,,,,,no,40.6659,-73.98274,368 7th Ave,,,Brooklyn,11215,US,NY
@@ -1716,10 +1692,8 @@ Coffee & Tea ,Beer,alias:icecream,IceCream&FrozenYogurt,,,,(718) 421-4342,FALSE,
 Meat Shops,,,,,,,(718) 417-8888,FALSE,Sea Town Fish & Meat Market,,$,3,4,,,,,,no,40.69891,-73.91367,330 Linden St,,,Brooklyn,11237,US,NY
 Grocery,,,,,,,,FALSE,Smith Convience,,,5,1,,,,,,no,40.68119765,-73.99417821,3 W 9th St,,,Gowanus,11231,US,NY
 Delis,,,,,,,(718) 677-8367,FALSE,Lucky Seven Deli Corporation,,,4.5,5,,,,,,no,40.619493,-73.933921,2062 Flatbush Ave,,,Brooklyn,11234,US,NY
-Convenience Stores,,,,,,,,FALSE,Steve M. Grocery,,$$,3,1,,,,,,no,40.70566,-73.91584,423 Stanhope St,,,Brooklyn,11237,US,NY
 Pasta Shops,,,,,,,(718) 638-8500,FALSE,Un Posto Italiano,,$$,5,29,,,,,,no,40.67746115,-73.98108429,704 Sackett St,,,Brooklyn,11217,US,NY
 Meat Shops,,,,,,,(718) 389-6149,FALSE,Kiszka Meat Market,,$$,5,46,,,,,,no,40.73059,-73.95465,915 Manhattan Ave,,,Brooklyn,11222,US,NY
-Convenience Stores,,,,,,,(718) 858-8124,FALSE,Han's Market,,$$,3.5,6,,,,,,no,40.697849,-73.993423,51 Clark St,,,Brooklyn,11201,US,NY
 Grocery,,,,,,,(718) 964-0890,FALSE,Krystal West Indians Grocery & Religious Articles,,$,5,1,,,,,,no,40.67878,-73.86446,1210 Liberty Ave,,,Brooklyn,11208,US,NY
 Grocery,,,,,,,(718) 648-0202,FALSE,Stop & Shop Super Food Stores,,$$,3.5,5,,,,,,no,40.5901718,-73.9525986,1710 Avenue Y,,,Brooklyn,11215,US,NY
 Drugstores ,Cosmetics & Beauty Supply,ConvenienceStores,,,,,(718) 237-4526,FALSE,Duane Reade,,$$,2.5,16,,,,,,no,40.69481659,-73.95196533,756 Myrtle Ave,,,Brooklyn,11206,US,NY
@@ -1753,22 +1727,16 @@ Coffee & Tea ,Grocery,Bagels,,,,,(718) 855-6551,FALSE,Sunrise Mini Mart,,$$$$,3,
 Meat Shops,,,,,,,(718) 646-9111,FALSE,G & S Salumeria & Pork Store,,$$,4.5,42,,,,,,no,40.600292,-73.945274,2611 Avenue U,,,Brooklyn,11229,US,NY
 Grocery,,,,,,,(347) 763-2088,FALSE,Best & Quick Gourmet,,,5,1,,, pickup ,,delivery,no,40.67731504,-73.97286002,310 Flatbush Ave,,,Brooklyn,11238,US,NY
 Korean ,Grocery,,,,,,(718) 389-5544,FALSE,Kimchee Market,,$,4,40,,, pickup ,,delivery,no,40.73063,-73.95195,191 Greenpoint Ave,,,Greenpoint,11222,US,NY
-Convenience Stores,,,,,,,(718) 435-6800,FALSE,Plaza 5 De Mayo Grocery Corporation,,,5,1,,,,,,no,40.6439676,-73.976311,416 Church Ave,,,Brooklyn,11218,US,NY
 Delis,,,,,,,(718) 369-8971,FALSE,Convenience Deli Grocery,,,3,1,,,,,,no,40.6679497,-73.9869995,475 5th Ave,,,Brooklyn,11215,US,NY
 Seafood Markets,,,,,,,(718) 756-9521,FALSE,Raskin Fish Market,,$$$,4,6,,,,,,no,40.66805267,-73.94252777,320 Kingston Ave,,,Brooklyn,11213,US,NY
-Convenience Stores,,,,,,,,FALSE,Divino Nino Grocery Store,,$,3.5,3,,,,,,no,40.711109,-73.953536,407 Keap St,,,Brooklyn,11211,US,NY
 Grocery,,,,,,,(718) 372-7468,FALSE,Key Food,,$$,3.5,7,,,,,,no,40.577391,-74.001918,3485 Neptune Ave,,,Brooklyn,11224,US,NY
-Convenience Stores ,Delis,Halal,,,,,(718) 349-1828,FALSE,God Bless Deli,,$,4,85,,, pickup ,,delivery,no,40.72835,-73.95326,818 Manhattan Ave,,,Brooklyn,11222,US,NY
-Pharmacy,,,,,,,(718) 388-8500,FALSE,V & A Pharmacy,,,5,2,,,,,,no,40.70471,-73.94435,72 Manhattan Ave,,,Brooklyn,11206,US,NY
 Delis,,,,,,,,FALSE,Anna's Best Gourmet Deli,,,3.5,4,,,,,,no,40.703665,-73.915123,Saint Nicholas Ave,,,Brooklyn,11237,US,NY
 Grocery,,,,,,,(718) 630-1118,FALSE,Grace Mini Market Incorporated,,$,4,1,,,,,,no,40.62757,-74.01411,7114 Fort Hamilton Pkwy,,,Brooklyn,11228,US,NY
 Italian ,Sandwiches,PastaShops,,,,,(718) 369-2874,FALSE,Russo's Mozzarella and Pasta,,$$,4,180,,, pickup ,,delivery,no,40.66576767,-73.98220062,363 7th Ave,,,Brooklyn,11215,US,NY
 Delis ,Sandwiches,,,,,,(718) 622-5853,FALSE,Super Deli & Grocery,,,1,1,,,,,,no,40.680358,-73.945014,1403 Fulton St,,,Brooklyn,11216,US,NY
 Grocery,,,,,,,(718) 919-0241,FALSE,B & C Grocery,,,3,2,,,,,,no,40.693245,-73.942685,305 Throop Ave,,,Brooklyn,11206,US,NY
-Convenience Stores,,,,,,,,FALSE,4011 Deli Grocery Inc,,,5,1,,,,,,no,40.65038512,-74.00470722,4011 5th Ave,,,Sunset Park,11232,US,NY
 Grocery ,Delis,,,,,,(718) 455-3160,FALSE,Majesty Deli & Grocery,,,3,1,,,,,,no,40.68572,-73.92992,220 Malcolm X Blvd,,,Brooklyn,11221,US,NY
 Grocery,,,,,,,(718) 703-3912,FALSE,Wing Hing Loon Grocery Store,,,1,1,,,,,,no,40.641372,-73.937728,4104 Avenue D,,,Brooklyn,11203,US,NY
-Convenience Stores,,,,,,,(718) 827-8766,FALSE,Roman Brothers Grocery Store,,$,2.5,2,,,,,,no,40.675189,-73.892677,463 Liberty Ave,,,Brooklyn,11207,US,NY
 Drugstores ,Cosmetics & Beauty Supply,ConvenienceStores,,,,,(718) 941-8694,FALSE,Duane Reade,,$$,3,8,,,,,,no,40.65536,-73.94753,750 New York Ave,,,Brooklyn,11203,US,NY
 Grocery,,,,,,,(718) 236-4827,FALSE,Hnt Oriental Grocery,,,1,1,,,,,,no,40.61294,-73.98212,6617 Bay Pkwy,,,Brooklyn,11204,US,NY
 Grocery ,Delis,,,,,,(718) 384-7521,FALSE,La Bamba Deli Grocery,,,4.5,4,,,,,,no,40.70949367,-73.95444453,357 Keap St,,,Williamsburg,11211,US,NY
@@ -1779,7 +1747,6 @@ Specialty Food,,,,,,,(718) 251-2100,FALSE,Batampte Pickle Prods,,$,3.5,2,,,,,,no
 Fruits & Veggies,,,,,,,(718) 236-4827,FALSE,H & T Oriental Grocery,,$,4,1,,,,,,no,40.611794,-73.98185,6617 Bay Pkwy,,,Brooklyn,11204,US,NY
 Grocery,,,,,,,(347) 889-7773,FALSE,Sagal Meat Market 2,,$$,3,2,,,,,,no,40.7010099,-73.94264,728 Broadway,,,Brooklyn,11206,US,NY
 Grocery,,,,,,,(347) 462-9064,FALSE,Ave N Gourmet Deli,,$,4,2,,,,,,no,40.61962813,-73.9166835,6309 Ave N,,,Brooklyn,11234,US,NY
-Convenience Stores,,,,,,,(718) 919-1851,FALSE,La Famosa H G Grocery,,$,3,1,,,,,,no,40.694705,-73.931587,1064 Broadway,,,Brooklyn,11221,US,NY
 Beer,,,,,,,(718) 243-2864,FALSE,Smith & Vine,,$$,4,73,,,,,,no,40.6811927,-73.9941954,317 Smith St,,,Brooklyn,11231,US,NY
 Farmers Market,,,,,,,(917) 836-9707,FALSE,Liberty Apple Farm,,$,5,1,,,,,,no,40.6788652,-73.8658243,1173 Liberty Ave,,,Brooklyn,11208,US,NY
 Pubs ,Music Venues,,,Full Bar,Hipster,Loud,(718) 638-4400,FALSE,Union Hall,https://www.yelp.com/biz/union-hall-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4,630,4,8/24/06,,,,no,40.67612,-73.98005,702 Union St,,,Brooklyn,11215,US,NY
@@ -2143,7 +2110,6 @@ Coffee & Tea ,Cocktail Bars,Breakfast&Brunch,,Full Bar,Casual,Average,(718) 650-
 Pubs,,,,Full Bar,,Average,(718) 435-2156,FALSE,Denny's Pub,https://www.yelp.com/biz/dennys-pub-brooklyn-2?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$,3,32,3,11/13/07,,,,no,40.6427213,-73.9786335,106 Beverley Rd,,,Brooklyn,11218,US,NY
 Lounges ,Cocktail Bars,French,,Full Bar,"Hipster, Casual",Average,(347) 505-9155,FALSE,Lot45,https://www.yelp.com/biz/lot45-brooklyn-2?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3.5,100,5,4/22/14, pickup ,restaurant_reservation,delivery,no,40.7071251,-73.9224824,411 Troutman St,,,Brooklyn,11237,US,NY
 Pubs,,,,Full Bar,,Quiet,(718) 567-0067,FALSE,Feeney's Pub,https://www.yelp.com/biz/feeneys-pub-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$$,4,6,3,4/18/07,,,,no,40.63818,-74.01731,6201 5th Ave,,,Brooklyn,11226,US,NY
-Massage ,Day Spas,SportsBars,,,,,(718) 332-1676,FALSE,Russian Baths on Neck Road,https://www.yelp.com/biz/russian-baths-on-neck-road-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4,61,4,2/24/12,, restaurant_reservation,,no,40.59424,-73.95788,1200 Gravesend Neck Rd,,,Brooklyn,11229,US,NY
 Cocktail Bars,,,,Full Bar,,,(718) 599-1499,FALSE,Mezcaleria La Milagrosa,https://www.yelp.com/biz/mezcaleria-la-milagrosa-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4,19,5,6/16/17,, restaurant_reservation,,no,40.71172,-73.95734,149 Havemeyer St,,,Brooklyn,11211,US,NY
 Venues & Event Spaces ,Lounges,TapasBars,,Beer & Wine Only,,Casual,(347) 987-4073,FALSE,33 Lafayette,https://www.yelp.com/biz/33-lafayette-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3.5,11,4,2/23/17,,,,no,40.68705183,-73.97769358,33 Lafayette Ave,,,Brooklyn,11217,US,NY
 Karaoke,,,,Beer & Wine Only,,,(718) 851-8118,FALSE,39 KTV,https://www.yelp.com/biz/39-ktv-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4.5,3,5,5/23/11,,,,no,40.646719,-73.996839,820 39th St,,,Brooklyn,11219,US,NY
@@ -2151,7 +2117,6 @@ American (Traditional) ,Whiskey Bars,,,Full Bar,Casual,Loud,(718) 387-8444,FALSE
 Pool Halls ,Sports Bars,,,Full Bar,,Quiet,(718) 627-3407,FALSE,Skyline Billards & Bar,https://www.yelp.com/biz/skyline-billards-and-bar-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,,4,11,3,11/14/10,,,,no,40.590702,-73.9736823,2515 McDonald Ave,,,Brooklyn,11223,US,NY
 Pubs,,,,Beer & Wine Only,Hipster,Average,(718) 963-4140,FALSE,Spuyten Duyvil,https://www.yelp.com/biz/spuyten-duyvil-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4,371,5,2/9/06,,,,no,40.71422,-73.95598,359 Metropolitan Ave,,,Brooklyn,11211,US,NY
 Cocktail Bars ,Tacos,WineBars,,Full Bar,,,(917) 909-1057,FALSE,Jimbo Slims,https://www.yelp.com/biz/jimbo-slims-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,,5,27,5,11/17/17,pickup,,,no,40.72094504,-73.94651682,524 Graham Ave,,,Brooklyn,11222,US,NY
-Dance Clubs ,Gay Bars,,,Full Bar,,,(347) 856-4815,FALSE,Xstasy Night Club,https://www.yelp.com/biz/xstasy-night-club-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$,3.5,16,2,7/28/14,,,,no,40.6585084,-73.9966357,758 5th Ave,,,Brooklyn,11232,US,NY
 Chinese ,Spanish,Bars,,Full Bar,Casual,Loud,(718) 431-2938,FALSE,New Victory,https://www.yelp.com/biz/new-victory-brooklyn-2?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4,31,4,8/11/07,pickup,,,no,40.6459807,-74.0091191,4803 5th Ave,,,Brooklyn,11371,US,NY
 Seafood ,Cocktail Bars,,,Full Bar,"Intimate, Romantic",Average,(347) 987-3666,FALSE,Achilles Heel,https://www.yelp.com/biz/achilles-heel-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3.5,73,4,5/19/13,,,,no,40.73318,-73.95969,180 W St,,,Brooklyn,11222,US,NY
 Pubs ,American (Traditional),SportsBars,,Full Bar,Casual,Average,(718) 833-5180,FALSE,Lone Star Bar & Grill,https://www.yelp.com/biz/lone-star-bar-and-grill-brooklyn-2?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3.5,113,1,6/10/08, pickup ,,delivery,no,40.62061691,-74.02656555,8703 5th Ave,,,Brooklyn,11209,US,NY
@@ -2228,7 +2193,6 @@ Bars,,,,,,,(347) 462-3572,FALSE,Legends Bar,https://www.yelp.com/biz/legends-bar
 Mexican ,Bars,Tex-Mex,,Full Bar,Casual,Average,(718) 230-8646,FALSE,Burrito Bar,https://www.yelp.com/biz/burrito-bar-brooklyn-2?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3,639,4,11/3/06, pickup ,restaurant_reservation,delivery,no,40.678342,-73.9730639,307 Flatbush Ave,,,Brooklyn,11238,US,NY
 Dive Bars,,,,Full Bar,Divey,Average,(718) 384-9774,FALSE,Turkey's Nest Tavern,https://www.yelp.com/biz/turkeys-nest-tavern-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$,4,169,3,4/28/05,,,,no,40.72058282,-73.95508005,94 Bedford Ave,,,Brooklyn,11211,US,NY
 Bars ,Sandwiches,Tapas/SmallPlates,,,,,(929) 457-6315,FALSE,Mekelburg's Domino,https://www.yelp.com/biz/mekelburgs-domino-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,,5,17,5,9/14/18,pickup,, delivery ,no,40.71371229,-73.9671562,319 Kent Ave,,,Brooklyn,11249,US,NY
-Dance Clubs ,Cocktail Bars,,,Full Bar,,Very Loud,(718) 443-1271,FALSE,Bossa Nova Civic Club,https://www.yelp.com/biz/bossa-nova-civic-club-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3.5,107,1,1/21/13,,,,no,40.6979738,-73.9279654,1271 Myrtle Ave,,,Brooklyn,11221,US,NY
 Italian ,Bars,,,Full Bar,Casual,Average,(718) 768-4698,FALSE,Bar Toto,https://www.yelp.com/biz/bar-toto-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3.5,255,4,9/13/05,pickup,, delivery ,no,40.6669,-73.984672,411 11th St,,,Brooklyn,11215,US,NY
 Caribbean ,Cocktail Bars,,,Full Bar,"Hipster, Casual",Average,(929) 276-3528,FALSE,Pearl's,https://www.yelp.com/biz/pearls-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4,420,5,12/19/15,pickup,restaurant_reservation, delivery ,no,40.7180814,-73.956634,178 N 8th St,,,Brooklyn,11211,US,NY
 Burgers ,Beer Bar,,,,Casual,Average,(718) 801-8393,FALSE,Burger Joint,https://www.yelp.com/biz/burger-joint-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3,44,5,7/11/17,pickup,,,no,40.65663,-74.00843,220 36th St,Ste B114S,,Brooklyn,11232,US,NY
@@ -2281,7 +2245,6 @@ Bars,,,,,,,(718) 383-9699,FALSE,Alfred Kaminski Bar & Grill,https://www.yelp.com
 Bars ,Latin American,Dominican,,Full Bar,Casual,Loud,(718) 387-5111,FALSE,DOS31 Cocina + Bar,https://www.yelp.com/biz/dos31-cocina-bar-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4,25,5,4/23/16, pickup ,,delivery,no,40.7105846,-73.9588372,231 S 4th St,,,Brooklyn,11211,US,NY
 American (New) ,Cocktail Bars,BeerBar,,Full Bar,Casual,Average,(718) 965-9600,FALSE,Loki Bar,https://www.yelp.com/biz/loki-bar-park-slope-6?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4,168,3,5/24/05, pickup ,restaurant_reservation,delivery,no,40.673937,-73.983064,341 2nd St,,,Park Slope,11215,US,NY
 American (New) ,Cocktail Bars,,,Full Bar,,,,FALSE,Bar Beau,https://www.yelp.com/biz/bar-beau-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,,4.5,31,5,7/22/18,pickup,restaurant_reservation,,no,40.71695,-73.95009,61 Withers St,,,Brooklyn,11211,US,NY
-Bowling ,Dive Bars,,,Full Bar,"Divey, Hipster",Average,(718) 387-3585,FALSE,The Gutter,https://www.yelp.com/biz/the-gutter-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3.5,322,4,9/17/07,,,,no,40.72259,-73.955396,200 N 14th St,,,Brooklyn,11222,US,NY
 American (New) ,Seafood,CocktailBars,,Full Bar,"Casual, Trendy",Loud,(718) 398-7700,FALSE,Woodland,https://www.yelp.com/biz/woodland-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,3,1058,2,5/24/12, pickup ,restaurant_reservation,delivery,no,40.680155,-73.9749779,242 Flatbush Ave,,,Brooklyn,11217,US,NY
 Peruvian ,Bars,,,Full Bar,Trendy,Average,(718) 387-3434,FALSE,Llama Inn,https://www.yelp.com/biz/llama-inn-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$$,4,376,4,11/23/15,, restaurant_reservation,,no,40.71672,-73.95051,50 Withers St,,,Brooklyn,11211,US,NY
 Bookstores ,Bars,Coffee&Tea,,Beer & Wine Only,"Hipster, Casual",Average,,FALSE,Molasses Books,https://www.yelp.com/biz/molasses-books-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$,4.5,44,5,2/28/13,pickup,,,no,40.700569,-73.923696,770 Hart St,,,Brooklyn,11237,US,NY
@@ -2626,7 +2589,6 @@ Coffee & Tea ,Breakfast & Brunch,Burgers,,,,,(718) 443-2500,FALSE,Zaca Cafe,http
 Coffee & Tea ,Cafes,,,No,Casual,Average,(718) 381-1944,FALSE,Swallow Cafe,https://www.yelp.com/biz/swallow-cafe-brooklyn-3?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$,3.5,183,3,11/2/10,pickup,,,no,40.70531,-73.93343,49 Bogart St,,,Brooklyn,11206,US,NY
 Coffee & Tea ,Sandwiches,Breakfast&Brunch,,No,,Quiet,(718) 773-3770,FALSE,Chocolatte,https://www.yelp.com/biz/chocolatte-brooklyn-6?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4.5,12,5,7/31/14, pickup ,,,no,40.6244988,-73.965271,1354 Coney Island Ave,,,Brooklyn,11230,US,NY
 Bakeries ,Coffee & Tea,Patisserie/CakeShop,,,,,(203) 742-9763,FALSE,PEP Bakehouse & Coffee Shop,https://www.yelp.com/biz/pep-bakehouse-and-coffee-shop-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,5,42,5,3/3/18,pickup,,,no,40.61752728,-74.03342227,9413 3rd Ave,,,Brooklyn,11209,US,NY
-Laundromat ,Cafes,,,,,,(718) 388-1221,FALSE,Celsious,https://www.yelp.com/biz/celsious-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,5,49,5,11/29/17,,,,no,40.71905,-73.95923,115 North 7th St,,,Brooklyn,11211,US,NY
 Cafes ,Bakeries,,,,,,(347) 365-2038,FALSE,Stephlova's Cafe,https://www.yelp.com/biz/stephlovas-cafe-brooklyn-2?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,,4,5,5,1/13/18,pickup,,delivery,no,40.64940715,-73.93025273,952 Utica Ave,,,Brooklyn,11203,US,NY
 Cafes,,,,No,,Average,(718) 624-5600,FALSE,Market Kitchen Table,https://www.yelp.com/biz/market-kitchen-table-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,5,7,5,9/28/17,pickup,,delivery,no,40.67496,-73.9993,521 Court St,,,Brooklyn,11231,US,NY
 Coffee & Tea,,,,,,Quiet,(347) 457-5363,FALSE,Crema BK,https://www.yelp.com/biz/crema-bk-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$$,4.5,84,5,10/1/13,pickup,,,no,40.72303,-73.94572,182 Driggs Ave,,,Brooklyn,11222,US,NY
@@ -2712,7 +2674,6 @@ Coffee & Tea ,Bagels,Sandwiches,,No,,,(917) 648-7800,FALSE,Marcy & Myrtle Cafe,h
 Coffee & Tea,,,,,,,,FALSE,Familiars Vegan Coffee Shop,https://www.yelp.com/biz/familiars-vegan-coffee-shop-brooklyn-2?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,,5,2,5,2/24/19,,,,no,40.6868,-73.92363,94 Ralph Ave,,,Brooklyn,11221,US,NY
 Bagels ,Coffee & Tea,Sandwiches,,No,"Casual, Trendy",Average,(718) 778-0581,FALSE,Lula Bagel,https://www.yelp.com/biz/lula-bagel-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$,3.5,214,5,7/1/13, pickup ,,delivery,no,40.6708944,-73.9505963,816 Nostrand Ave,,,Brooklyn,11216,US,NY
 Coffee & Tea,,,,,,,(718) 782-0332,FALSE,Oslo Coffee Roasters,https://www.yelp.com/biz/oslo-coffee-roasters-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$,4,185,5,3/29/06,pickup,,,no,40.714642,-73.956599,133-B Roebling St,,,Brooklyn,11211,US,NY
-Yoga ,Cafes,,,,,,(347) 413-7774,FALSE,Heal Haus,https://www.yelp.com/biz/heal-haus-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,,5,10,5,6/16/18,pickup,,,no,40.68138,-73.95757,1082 Fulton St,,,Brooklyn,11238,US,NY
 Coffee & Tea ,Desserts,,,,,,(718) 704-1188,FALSE,Redefined Coffee,https://www.yelp.com/biz/redefined-coffee-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,,5,10,5,11/13/17,pickup,,,no,40.61701,-73.94469,2771 Nostrand Ave,,,Brooklyn,11210,US,NY
 Coffee & Tea ,Breakfast & Brunch,,,No,Casual,Average,(347) 425-8642,FALSE,The Pulp & The Bean,https://www.yelp.com/biz/the-pulp-and-the-bean-brooklyn?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$,3.5,176,4,10/26/09,pickup,restaurant_reservation,,no,40.671245,-73.957696,809 Franklin Ave,,,Brooklyn,11238,US,NY
 Bakeries ,Cafes,,,No,Casual,Average,(718) 383-8450,FALSE,Cafe Riviera,https://www.yelp.com/biz/cafe-riviera-brooklyn-2?adjust_creative=0Dg8yi23WIgUL_NRJc29aA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=0Dg8yi23WIgUL_NRJc29aA,$,4,89,4,5/24/07,pickup,,,no,40.7286629,-73.953337,830 Manhattan Ave,,,Brooklyn,11222,US,NY
